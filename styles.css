@@ -1,0 +1,68 @@
+body{
+  background-color: black;
+  text-align: center;
+  margin: auto;
+  padding: 5% 7%;
+  color: white;
+}
+
+i{
+  font-size: 10rem;
+}
+
+h1{
+  font-family: 'Kalam', cursive;
+  font-size: 4rem;
+}
+h2{
+  font-size: 2rem;
+  font-style: italic;
+}
+
+h3{
+  text-align: center;
+  margin: auto;
+}
+
+.btn{
+  margin-top: 2%;
+}
+
+.row{
+  margin: 7% 0;
+}
+
+.p1{
+  text-align: right;
+  padding-right: 3%;
+  padding-top: 3%;
+}
+
+.p2{
+  text-align:left;
+  padding-left:3%;
+  padding-top: 3%;
+}
+
+.player1{
+  padding-right: 4%;
+}
+.player2{
+  padding-left: 4%;
+}
+
+.fa-flag{
+  font-size: 7rem;
+  font-style: italic;
+}
+
+.hidden{
+  visibility: hidden;
+}
+
+#footer{
+  position: absolute;
+  bottom: 3%;
+  left: 0%;
+  width: 100%;
+}
